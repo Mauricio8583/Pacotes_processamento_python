@@ -15,5 +15,8 @@ setup(
     description="Primeiro projeto",
     long_description=page_description,
     long_description_content_type = "text/markdown",
-    
+    url="https://github.com/Mauricio8583/Pacotes_processamento_python",
+    packages=find_packages(),
+    install_requires= requirements,
+    python_requires= ">=3.8",
 )
