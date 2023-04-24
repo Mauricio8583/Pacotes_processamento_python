@@ -1,3 +1,13 @@
+Metadata-Version: 2.1
+Name: project-processamento
+Version: 0.0.1
+Summary: Primeiro projeto
+Home-page: https://github.com/Mauricio8583/Pacotes_processamento_python
+Author: Mauricio
+Author-email: mauricio.oliveira8583@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
 # image_processing
 
 Description:
